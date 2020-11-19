@@ -1,5 +1,5 @@
 '''
-Problem: hhttps://open.kattis.com/problems/fizzbuzz
+Problem: https://open.kattis.com/problems/fizzbuzz
 Author:  Bivash Pandey
 '''
 x, y, n = map(int, input().split())
