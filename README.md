@@ -6,6 +6,7 @@ Solutions to the [Kattis Problems](https://open.kattis.com/).
 | - | - |
 | [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Java/Autori.java) |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Java/BatterUp.java) , [Python](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Python/BatterUp.py) |
+| [Bela](https://open.kattis.com/problems/bela) | [Java](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Java/Bela.java) |
 | [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Java/Faktor.java) , [Python](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Python/Faktor.py) |
 | [Filip](https://open.kattis.com/problems/filip) | [Java](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Java/Filip.java) , [Python](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Python/Filip.py) |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Java/FizzBuzz.java) , [Python](https://github.com/bivashpandey/Kattis-Solutions/blob/main/Python/FizzBuzz.py) |
